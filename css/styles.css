@@ -114,7 +114,7 @@ button[type="button"]:focus{
 .nav_link{
     background-color: transparent;
     text-decoration: none;
-    color: black;
+    color: #212121;
 }
 .nav_link:hover {
     color: #2196f3;
