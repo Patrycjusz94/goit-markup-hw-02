@@ -1,1 +1,1 @@
-https://patrycjusz94.github.io/goit-markup-hw-01/index.html
+https://patrycjusz94.github.io/goit-markup-hw-02/
